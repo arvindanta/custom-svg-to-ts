@@ -1,0 +1,20 @@
+export declare const DEFAULT_OPTIONS: {
+    fileName: string;
+    interfaceName: string;
+    objectName: string;
+    outputDirectory: string;
+    prefix: string;
+    srcFiles: string[];
+    typeName: string;
+    enumName: string;
+    generateType: boolean;
+    generateTypeObject: boolean;
+    generateEnum: boolean;
+    additionalModelOutputPath: any;
+    modelFileName: string;
+    iconsFolderName: string;
+    compileSources: boolean;
+    exportCompleteIconSet: boolean;
+    verbose: boolean;
+    barrelFileName: string;
+};
